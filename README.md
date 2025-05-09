@@ -14,7 +14,7 @@
 4. **MySQL**: This project uses MySQL for data storage.
    - Ensure MySQL is running and the database is correctly configured.
   
-About Part，all the sql files are in the folders,please import before excuting.
+About Part B，all the sql files are in the folders,please import before excuting.
 
 
 
